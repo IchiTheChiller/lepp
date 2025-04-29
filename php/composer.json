@@ -1,0 +1,7 @@
+{
+    "name": "lepp-stack/php",
+    "description": "PHP-Abhängigkeiten für den LEPP-Stack",
+    "require": {
+        "robthree/twofactorauth": "^2.1"
+    }
+}
