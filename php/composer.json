@@ -1,7 +1,8 @@
 {
     "name": "lepp-stack/php",
-    "description": "PHP-Abhängigkeiten für den LEPP-Stack",
+    "description": "PHP-AbhÃ¤ngigkeiten für den LEPP-Stack",
     "require": {
-        "robthree/twofactorauth": "^2.1"
+        "robthree/twofactorauth": "^3.0",
+        "endroid/qr-code": "^5.0"
     }
 }
